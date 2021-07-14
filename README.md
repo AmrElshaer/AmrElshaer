@@ -3,7 +3,8 @@
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
 [![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=AmrElshaer&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
-
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrElshaer&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
