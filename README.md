@@ -1,10 +1,24 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Amr Elshaer
+
+<br/>
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
 [![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=AmrElshaer&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrElshaer&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
+## My Latest Articles
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amrelsher07/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@amrelsher07/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amrelsher07/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@amrelsher07/1" alt="Recent Article 1"/></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amrelsher07/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@amrelsher07/2" alt="Recent Article 2"/></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amrelsher07/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@amrelsher07/3" alt="Recent Article 3"/></a>
+  
+ <br/>
+  
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
