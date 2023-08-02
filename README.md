@@ -18,6 +18,20 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amrelsher07/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@amrelsher07/3" alt="Recent Article 3"/></a>
   
  <br/>
+ 
+ ### Visitor Since 31 -12-2022
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AmrElshaer/count.svg" />
+</p>
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AmrElshaer&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br> 
+<be>
   
 ### Connect with me:
 
